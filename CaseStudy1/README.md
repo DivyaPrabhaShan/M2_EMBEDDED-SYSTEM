@@ -38,7 +38,7 @@
 # Components Description
  # Timer
     A timer is a device that measures time,especially one that is part of of a machine and causes it to start or stop working at specific times. 
- # Hysraulic system
+ # Hydraulic system
     Hydraulic systems function and perform tasks through using a fluid that is pressurized.
  # Sensor
     A sensor is a device that detects the change in the environment and responds to some output on the other system.
