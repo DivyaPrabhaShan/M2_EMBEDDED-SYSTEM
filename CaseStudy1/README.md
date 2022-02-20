@@ -42,4 +42,6 @@
     Hydraulic systems function and perform tasks through using a fluid that is pressurized.
  # Sensor
     A sensor is a device that detects the change in the environment and responds to some output on the other system.
+ # Controller
+    A controller is a comparative device that receives an input signal from a measured process variable.
  
