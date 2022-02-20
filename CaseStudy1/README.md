@@ -1,4 +1,6 @@
 # DISH WASHER
+# INTRODUCTION
+   A dishwasher is a machine which is used to clean and rinse the dirty cookwares and cutleries automatically.
 # BLOCK DIAGRAM
  ![Untitled Workspace (14)](https://user-images.githubusercontent.com/98879001/154837152-5015c429-baf5-4bad-952e-166badf2e54c.png)
 
