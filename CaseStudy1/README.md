@@ -14,7 +14,9 @@
   * Heats the air to dry the dishes off.
 # Requirements
  # HIGH LEVEL REQUIREMENTS
-   | H_01 | Filling|
+   | HLR | Description|
+   --------------------
+   | h_01 | Filling|
    | H_01 | Washing|
    | H_03 | Draining|
    | H_04 | Rinsing|
