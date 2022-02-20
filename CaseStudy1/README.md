@@ -15,13 +15,15 @@
 # Requirements
  # HIGH LEVEL REQUIREMENTS
    | HLR | Description|
-   --------------------
-   | h_01 | Filling|
+   |-----|------------|
+   | H_01 | Filling|
    | H_01 | Washing|
    | H_03 | Draining|
    | H_04 | Rinsing|
    | H_05 | Drying|
  # LOW LEVEL REQUIREMENTS
+   |LLR |HLR | DESCRIPTION|
+   |----|----|------------|
    |L_01|H_01|Filling water in the dish washer|
    |L_02|H_01|Filling the detergent in the dispenser|
    |L_03|H_02|Shoots the water through sprays|
