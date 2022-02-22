@@ -28,6 +28,13 @@
 |L_06|H_02| It send message it it is below netral level of ph|
 |L_07|H_02| It sends whether it is in a neutral level| 
 |L_08|H_03| It shows the condition of temperature leve of water|
+# APPLICATION
+  * When the water level drops or rises, alerts are sent out.
+  * It is cost effective
+  * Low maintenance
+  * It also shows the temperature and PH level of water.So it help us to check the quality of the water.
+
+
 # COMPONENDS DESCRIPTION
  # WATER SENSOR
      Water sensor detect the presence and level of the water,it is also used for even water leakages.
