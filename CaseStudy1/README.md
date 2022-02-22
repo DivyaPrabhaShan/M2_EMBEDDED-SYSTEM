@@ -35,6 +35,12 @@
    |L_07|H_04|Using heat water to rinse the vesseles|
    |L_08|H_03|Again drains the water|
    |L_09|H_05|Venting the vessels heat air |
+# APPLICATION
+   * Reduces manual work
+   * Consumption of water is less when compared to hand wash.
+   * Reduces time
+   * It rinse the vesseles in hot water, it is more hygiene.
+   
 # Components Description
  # Timer
     A timer is a device that measures time,especially one that is part of of a machine and causes it to start or stop working at specific times. 
