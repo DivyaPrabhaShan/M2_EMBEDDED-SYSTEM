@@ -5,7 +5,8 @@
 
   
   RECEIVER
-  ![Untitled Workspace (18)](https://user-images.githubusercontent.com/98879001/155798397-b36255a6-ef06-42bf-89e4-cdb24462e036.png)
+  ![Untitled Workspace (20)](https://user-images.githubusercontent.com/98879001/155804170-65d92835-14e6-4bbf-bc27-8cc063193429.png)
+
 
 # COMPONENTS DESCRIPTION
    * Li ION BATTERY
