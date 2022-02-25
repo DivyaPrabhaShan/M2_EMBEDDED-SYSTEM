@@ -1,6 +1,7 @@
 # PREDICTIVE MAINTENANCE OF ELECTRIC CAR BATTERY USING IOT
 # BLOCK DIAGRAM
   TRANSMITTER
+  
   RECEIVER
   ![Untitled Workspace (18)](https://user-images.githubusercontent.com/98879001/155798397-b36255a6-ef06-42bf-89e4-cdb24462e036.png)
 
