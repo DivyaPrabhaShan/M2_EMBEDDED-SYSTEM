@@ -26,8 +26,8 @@
    * MICROCONTROLLER
          Microcontroller is an integrated circuit that contains a microprocessor along with memory and associated circuits and that controls some or all of the function of an electronic device.
  # ADVANTAGES
-    * Capital cost and maintanence cost.
-    * Non stop driving,even though the battery gets discharged
-    * Battery powered electric vehicle is considered as one of the solutions to deal with climate change issue since it has zero emission.
+    *  Capital cost and maintanence cost.
+    *  Non stop driving,even though the battery gets discharged
+    *  Battery powered electric vehicle is considered as one of the solutions to deal with climate change issue since it has zero emission.
          
       
