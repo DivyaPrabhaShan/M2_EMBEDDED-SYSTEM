@@ -5,7 +5,7 @@
   # REQUIREMENTS
    # HIGH LEVEL REQUIREMENTS
      |HLR ID | DESCRIPTION |
-     |----|----------------|
+     |-------|----------------|
      |HLR1|It shall balance the load cell|
      |HLR2|It shall balance the storage|
      |HLR3|It shall balance the charge|
