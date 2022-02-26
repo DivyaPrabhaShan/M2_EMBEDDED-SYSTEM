@@ -20,6 +20,9 @@
     * MICROCONTROLLER
          Microcontrollers is an integrated circuit that contains a microprocessor along with memory and associated circuits and that controls some or all of the function of an electronic device.
     * LED 
-          Light Emitting diode is a device that produces a light on electrical and electronic equipment. 
+         Light Emitting diode is a device that produces a light on electrical and electronic equipment.
+    * BMS SYSTEM
+          BMS is designed based on device requirements and implementation. The basic theory of the applied technical solution is determined based on device implementation possibility.It is expected that the device design solution approach can compromise between the theory being used.Battery pack was monitored can conditioned by the software and supported by the hardware of BMS.Battery conditions monitored include voltage ,current,and temperature. 
+         
         
       
