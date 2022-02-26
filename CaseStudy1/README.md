@@ -16,23 +16,23 @@
   * Heats the air to dry the dishes off.
 # Requirements
  # HIGH LEVEL REQUIREMENTS
-   | HLR | Description|
-   |-----|------------|
-   | H_01 | Filling|
-   | H_01 | Washing|
-   | H_03 | Draining|
-   | H_04 | Rinsing|
-   | H_05 | Drying|
+   | HLR ID | Description|
+   |--------|------------|
+   | HLR1 | Filling|
+   | HLR2 | Washing|
+   | HLR3 | Draining|
+   | HLR4 | Rinsing|
+   | HLR5 | Drying|
  # LOW LEVEL REQUIREMENTS
-   |LLR |HLR | DESCRIPTION|
-   |----|----|------------|
-   |L_01|H_01|Filling water in the dish washer|
-   |L_02|H_01|Filling the detergent in the dispenser|
-   |L_03|H_02|Shoots the water through sprays|
-   |L_04|H_02|Releases the detergent|
-   |L_05|H_02|Washing the vessels|
-   |L_06|H_03|Draining the dirty water|
-   |L_07|H_04|Using heat water to rinse the vesseles|
+   |LLR ID |HLR ID | DESCRIPTION|
+   |-------|-------|------------|
+   |LL1R|HLR1|Filling water in the dish washer|
+   |LLR2|HLR1|Filling the detergent in the dispenser|
+   |LLR3|HLR2|Shoots the water through sprays|
+   |LLR4|HLR2|Releases the detergent|
+   |LLR5|HLR2|Washing the vessels|
+   |LLR6|HLR3|Draining the dirty water|
+   |LLR7|HLR4|Using heat water to rinse the vesseles|
    |L_08|H_03|Again drains the water|
    |L_09|H_05|Venting the vessels heat air |
 # APPLICATION
