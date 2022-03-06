@@ -22,8 +22,7 @@
    |LLR6|HLR2|It shall pass the charge which is stored in a storage cell to battery,where it charges the cells with lower soc value|
    |LLR7|HLR3|The battery module shall recharged by a plug-in charger| 
 # 5W'S & 1H
-     ![Colorful Minimalist Linear Steps Circular Diagram (1)](https://user-images.githubusercontent.com/98879001/156939726-b12be157-4852-4077-a332-65c791194d37.png)
-
+     ![Colorful Minimalist Linear Steps Circular Diagram (1)](https://user-images.githubusercontent.com/98879001/156939790-90543a86-7447-4b90-82d5-9706df7960c1.png)
 
 
        
