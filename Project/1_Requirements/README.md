@@ -8,18 +8,18 @@
    # HIGH LEVEL REQUIREMENTS
    |HLR ID | DESCRIPTION |
    |-------|----------------|
-   |HLR1|It shall balance the load cell|
-   |HLR2|It shall balance the storage|
-   |HLR3|It shall balance the charge|
+   |HLR1|This shall balance the load cell|
+   |HLR2|This shall balance the storage|
+   |HLR3|This shall balance the charge|
    # LOW LEVEL REQUIREMENTS
    |LLR ID| HLR ID| DESCRIPTION|
    |------|-------|------------|
-   |LLR1|HLR1|It shall balance the battery cells directly|
+   |LLR1|HLR1|This shall balance the battery cells directly|
    |LLR2|HLR1|This mode shall be used in sunny weather conditions|
    |LLR3|HLR1|The cells with the lowest soc which is detected by the control unit shall be charged by a solar panel|
    |LLR4|HLR2|This mode shall be used in rainy or cloudy weather conditiond | 
    |LLR5|HLR2|THis shall also used during the night when solar panels are not able to generate sufficient power|
-   |LLR6|HLR2|It shall pass the charge which is stored in a storage cell to battery,where it charges the cells with lower soc value|
+   |LLR6|HLR2|This shall pass the charge which is stored in a storage cell to battery,where it charges the cells with lower soc value|
    |LLR7|HLR3|The battery module shall recharged by a plug-in charger| 
 # 5W'S & 1H
      ![Colorful Minimalist Linear Steps Circular Diagram (1)](https://user-images.githubusercontent.com/98879001/156939790-90543a86-7447-4b90-82d5-9706df7960c1.png)
