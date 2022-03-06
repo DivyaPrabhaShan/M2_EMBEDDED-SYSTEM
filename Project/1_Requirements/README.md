@@ -22,3 +22,8 @@
    |LLR6|HLR2|It shall pass the charge which is stored in a storage cell to battery,where it charges the cells with lower soc value|
    |LLR7|HLR3|The battery module shall recharged by a plug-in charger| 
        
+# SWOT ANALYSIS
+   ![Beige and Emerald Simple Modern SWOT Research Graph](https://user-images.githubusercontent.com/98879001/156933359-f0e039e5-189e-4420-88d9-70b67d0da6e6.png)
+
+   
+     
