@@ -6,7 +6,7 @@
    ![Untitled Workspace (20)](https://user-images.githubusercontent.com/98879001/155832256-d4e8c327-cdc2-419c-b348-70bb2bb48897.png)
  # COMPONENTS DESCRIPTION
    # LITHIUM-ION BATTERY
-      * A lithium-ion battery is a type of rechargable batteries composed of cells in which lithium ions move from the negative electrode through an electrolyte to the positive electrode during discharge and back when charging.Lithiun-ion batteries use an intercalated lithium compound as the material at the posiotive electrode and typically graphite at the negative electrode.
+       * A lithium-ion battery is a type of rechargable batteries composed of cells in which lithium ions move from the negative electrode through an electrolyte to the positive electrode during discharge and back when charging.Lithiun-ion batteries use an intercalated lithium compound as the material at the posiotive electrode and typically graphite at the negative electrode.
    # VOLTAGE SENSOR
       * Voltage sensors are wireless tools that can be attached to any number of assests,machinery or equipment.They provide 24/7 monitoring,constantly watching for voltage data that could indicate a problem.Voltage sensors detect magnetic field,electromagnetic fields and measure contact voltage.
    # CURRENT SENSOR
@@ -24,6 +24,8 @@
    # BMS SYSTEM
     * BMS is designed based on device requirements and implementation. The basic theory of the applied technical solution is determined based on device implementation possibility.It is expected that the device design solution approach can compromise between the theory being used.Battery pack was monitored can conditioned by the software and supported by the hardware of BMS.Battery conditions monitored include voltage ,current,and temperature. 
 # STRUCTURAL DIAGRAM
+  ![Add a CHARGINGsubheading (1)](https://user-images.githubusercontent.com/98879001/157036180-c39201ba-d942-4bde-a34e-e51bed6f1637.png)
+
   
 # FLOW CHART
 ![Untitled Workspace (22)](https://user-images.githubusercontent.com/98879001/155837491-9fcf5ddf-0668-4c18-bfbb-7d34df9c88ac.png)
