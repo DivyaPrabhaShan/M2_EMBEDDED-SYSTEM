@@ -24,7 +24,7 @@
    # BMS SYSTEM
     * BMS is designed based on device requirements and implementation. The basic theory of the applied technical solution is determined based on device implementation possibility.It is expected that the device design solution approach can compromise between the theory being used.Battery pack was monitored can conditioned by the software and supported by the hardware of BMS.Battery conditions monitored include voltage ,current,and temperature.
 # BEHAVIOURAL DIAGRAM 
-    ![How it works with your battery](https://user-images.githubusercontent.com/98879001/157047887-bfb4d676-1784-4230-8b31-e4c98148b153.png)
+   ![How it works with your battery (1)](https://user-images.githubusercontent.com/98879001/157048135-d5b4053f-8ad3-44a1-a070-196548a3ebdd.png)
 
 
 # STRUCTURAL DIAGRAM
