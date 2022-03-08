@@ -70,6 +70,13 @@
  ![3](https://user-images.githubusercontent.com/98879001/157170302-3f5f86fb-bf30-47b3-b8b9-54a26ba797b8.PNG)
  ![4](https://user-images.githubusercontent.com/98879001/157170345-844b5cc6-d8d1-44b9-a6d5-51a291f56bea.PNG)
  ![5](https://user-images.githubusercontent.com/98879001/157170396-0e40654f-9ec5-4006-a8d3-67557c69e989.PNG)
+ # APPLICATIONS
+ * Capital cost of EV is more.but life cycle cost of EV is lesser than automobiles
+ * Maintanence cost is affordable.
+ * Non stop driving ,even though the battery gets discharged.
+ * Battery powered electric vehicle is considered as one of the solutions to deal with c.limate change issues since it has zero emissions.
+  
+
 
 
 
