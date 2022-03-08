@@ -1,3 +1,3 @@
-# Simulation Vedio link
+# Simulation Video link
 
-      https://youtu.be/S4KMqKCJIlY
+      https://www.youtube.com/watch?v=S4KMqKCJIlY
