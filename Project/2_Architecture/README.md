@@ -1,10 +1,10 @@
- # BLOCK DIAGRAM 
-   # TRANSMITTER
+ # 3.BLOCK DIAGRAM 
+   # 3.1 TRANSMITTER
    ![Untitled Workspace (19)](https://user-images.githubusercontent.com/98879001/155832247-b3197a07-b2dc-4b65-aab1-c9215a52508e.png)
 
-   # RECEIVER
+   # 3.2 RECEIVER
    ![Untitled Workspace (20)](https://user-images.githubusercontent.com/98879001/155832256-d4e8c327-cdc2-419c-b348-70bb2bb48897.png)
- # COMPONENTS DESCRIPTION
+ # 3.3 COMPONENTS DESCRIPTION
    # LITHIUM-ION BATTERY
        * A lithium-ion battery is a type of rechargable batteries composed of cells in which lithium ions move from the negative electrode through an electrolyte to the positive electrode during discharge and back when charging.Lithiun-ion batteries use an intercalated lithium compound as the material at the posiotive electrode and typically graphite at the negative electrode.
    # VOLTAGE SENSOR
@@ -23,15 +23,15 @@
      * Light Emitting diode is a device that produces a light on electrical and electronic equipment.
    # BMS SYSTEM
     * BMS is designed based on device requirements and implementation. The basic theory of the applied technical solution is determined based on device implementation possibility.It is expected that the device design solution approach can compromise between the theory being used.Battery pack was monitored can conditioned by the software and supported by the hardware of BMS.Battery conditions monitored include voltage ,current,and temperature.
-# BEHAVIOURAL DIAGRAM 
+# 4.BEHAVIOURAL DIAGRAM 
    ![How it works with your battery (1)](https://user-images.githubusercontent.com/98879001/157048135-d5b4053f-8ad3-44a1-a070-196548a3ebdd.png)
 
 
-# STRUCTURAL DIAGRAM
+# 5.STRUCTURAL DIAGRAM
   ![Add a CHARGINGsubheading (1)](https://user-images.githubusercontent.com/98879001/157036180-c39201ba-d942-4bde-a34e-e51bed6f1637.png)
 
   
-# FLOW CHART
+# 6.FLOW CHART
 ![Untitled Workspace (22)](https://user-images.githubusercontent.com/98879001/155837491-9fcf5ddf-0668-4c18-bfbb-7d34df9c88ac.png)
 
 
